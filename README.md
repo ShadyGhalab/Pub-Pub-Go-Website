@@ -2,6 +2,8 @@
 
 Static GitHub Pages website for Pup Pup Go.
 
+App Store: https://apps.apple.com/us/app/pup-pup-go/id6776669744
+
 ## Pages
 
 - `index.html`
